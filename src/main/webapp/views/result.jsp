@@ -7,7 +7,7 @@
 
 <body>
     <h2>
-        Your result is Result: <%=session.getAttribute("result")%>
+        Your result is Result ${result}
     </h2>
 </body>
 </html>
